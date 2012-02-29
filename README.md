@@ -7,13 +7,13 @@ the _required_ module and all its dependencies are transferred in one message.
 Also, dependencies that have already been transferred to the browser are not re-transferred 
 when you require additional modules.
 
-Note: the `lib/require` infrastructure does not handle all the subtleties of node's require logic but it handles enough to
+Note: this infrastructure does not handle all the subtleties of node's require logic but it handles enough to
 support our applications (and it does it very efficiently).
 It is provided _as is_ and contributions to improve it are welcome.
 
 ## Resources
 
-The API is documented [here](https://github.com/Sage/streamlinejs/blob/master/API.md).  
+The API is documented [here](https://github.com/Sage/streamline-require/blob/master/API.md).  
 
 For support and discussion, please join the [streamline.js Google Group](http://groups.google.com/group/streamlinejs).
 
