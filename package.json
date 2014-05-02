@@ -1,0 +1,21 @@
+{
+  "name": "streamline-require",
+  "description": "simple require infrastructure for client-side scripts",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Sage/streamline-require.git"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "dependencies": {},
+  "author": {
+    "name": "Bruno Jouhier"
+  },
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/Sage/streamline-require/issues"
+  },
+  "homepage": "https://github.com/Sage/streamline-require",
+}
