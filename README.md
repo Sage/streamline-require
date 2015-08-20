@@ -17,7 +17,6 @@ The API is documented [here](https://github.com/Sage/streamline-require/blob/mas
 
 For support and discussion, please join the [streamline.js Google Group](http://groups.google.com/group/streamlinejs).
 
-You need [streamline](https://github.com/Sage/streamlinejs) and [streamline-fs](https://github.com/Sage/streamline-fs) as prerequisites.
 
 ## License
 
