@@ -1,7 +1,7 @@
 {
   "name": "streamline-require",
   "description": "simple require infrastructure for client-side scripts",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "repository": {
     "type": "git",
     "url": "git://github.com/Sage/streamline-require.git"
@@ -9,7 +9,10 @@
   "engines": {
     "node": ">=0.10.0"
   },
-  "dependencies": {},
+  "dependencies": {
+    "streamline": "^1.0.11",
+    "streamline-runtime": "^1.0.15"
+  },
   "author": {
     "name": "Bruno Jouhier"
   },
