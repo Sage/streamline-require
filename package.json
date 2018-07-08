@@ -10,8 +10,8 @@
     "node": ">=0.10.0"
   },
   "dependencies": {
-    "streamline": "^2.0.2",
-    "streamline-runtime": "^1.0.15"
+    "streamline": "^2.1.3",
+    "streamline-runtime": "^1.1.15"
   },
   "author": {
     "name": "Bruno Jouhier"
