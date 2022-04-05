@@ -1,7 +1,7 @@
 {
   "name": "streamline-require",
   "description": "simple require infrastructure for client-side scripts",
-  "version": "3.0.0",
+  "version": "3.1.0",
   "repository": {
     "type": "git",
     "url": "git://github.com/Sage/streamline-require.git"
